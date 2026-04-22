@@ -1,0 +1,61 @@
+í°§ Introduction to Linux
+
+Linux is an open-source, Unix-like operating system kernel created by Linus Torvalds in 1991. Today, it powers everything from servers and supercomputers to smartphones (like Android) and embedded systems.
+
+Popular Linux distributions (distros) include:
+
+Ubuntu
+Fedora
+Debian
+Arch Linux
+
+í²» Why Use Linux?
+Free and open-source
+Secure and stable
+Highly customizable
+Strong community support
+Ideal for developers and system administrators
+
+?? Basic Linux Commands
+?? File & Directory Management
+ls        # List files and directories
+pwd       # Show current directory
+cd        # Change directory
+mkdir     # Create a new directory
+rmdir     # Remove empty directory
+rm        # Remove files or directories
+cp        # Copy files/directories
+mv        # Move or rename files
+?? File Viewing & Editing
+cat       # Display file content
+less      # View file page by page
+nano      # Simple text editor
+vim       # Advanced text editor
+?? Searching & Filtering
+find      # Search for files
+grep      # Search text inside files
+?? System Information
+uname -a  # System information
+top       # Monitor system processes
+df -h     # Disk usage
+free -h   # Memory usage
+?? Package Management (Ubuntu/Debian)
+sudo apt update      # Update package list
+sudo apt upgrade     # Upgrade packages
+sudo apt install     # Install a package
+sudo apt remove      # Remove a package
+?? Permissions & Ownership
+chmod     # Change file permissions
+chown     # Change file ownership
+?? Networking
+ping      # Check connectivity
+ifconfig  # Network configuration (older)
+ip addr   # Show IP address
+?? Pro Tips
+Use man <command> to read the manual (e.g., man ls)
+Use history to view previously used commands
+Tab completion helps you auto-complete commands and file names
+?? Conclusion
+
+Linux is a powerful and flexible operating system that gives users full control over their environment. Mastering basic commands is the first step toward becoming efficient in Linux.
+
